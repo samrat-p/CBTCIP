@@ -17,6 +17,9 @@ module.exports = {
       },
     },
     extend: {
+      fontFamily: {
+        custom: ['Fira sans', 'sans-serif'], // Add your custom font name here
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
