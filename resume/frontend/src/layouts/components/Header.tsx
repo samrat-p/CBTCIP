@@ -3,7 +3,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <section id="navbar" className="p-20">
+    <section id="navbar" className="p-14">
       <div className="w-[90%] bg-white/30 glass rounded-3xl sticky top-0 ">
         <div className="flex gap-8 justify-center items-center ">
           <Button variant="ghost" className="text-base m-4">
